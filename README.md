@@ -1,4 +1,4 @@
-NOTE - I had recently completed CDAC and that's why I am not familiar with python as it was not in our PG-DAC syllabus though I had gone through some of the concepts and completed this assignment.
+NOTE - I had recently completed CDAC and that's why I am not familiar with Python (Django Framework) as it was not in our PG-DAC syllabus though I had gone through some of the concepts and completed this assignment.
 
 
 1. Clone this repository into a folder on your computer
