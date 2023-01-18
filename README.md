@@ -1,7 +1,7 @@
-Clone this repository into a folder on your computer
-Open terminal inside the folder with code.
-Type python manage.py runserver to start a localhost server for the app.
-The API is started and now you can use the API routes to give requests.
+1. Clone this repository into a folder on your computer
+2. Open terminal inside the folder with code.
+3. Type python manage.py runserver to start a localhost server for the app.
+4. The API is started and now you can use the API routes to give requests.
 
 ![Screenshot (103)](https://user-images.githubusercontent.com/104364993/213156782-5f3cf01c-ecd8-4c6e-9a5a-2e6ef66a086e.png)
 # ECommerce![Screenshot (104)](https://user-images.githubusercontent.com/104364993/213156966-f9aac38c-aa00-426b-958d-e9eb63f90740.png)
